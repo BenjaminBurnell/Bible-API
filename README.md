@@ -1,8 +1,8 @@
-# Bible REST API
+# Bible API
 
 ## Overview
 
-**Bible REST API** is a lightweight and open-source web service that allows anyone to access Bible text by **version**, **book**, **chapter**, or **verse** through a simple RESTful interface.  
+**Bible API** is a lightweight and open-source web service that allows anyone to access Bible text by **version**, **book**, **chapter**, or **verse** through a simple RESTful interface.  
 It retrieves data directly from [BenjaminBurnell/Bible](https://github.com/BenjaminBurnell/Bible) — ensuring accuracy and easy version updates — and is powered by **FastAPI** for fast, reliable performance.
 
 ---
