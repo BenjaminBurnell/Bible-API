@@ -1,4 +1,4 @@
-# 📖 Bible REST API
+# Bible REST API
 
 ## Overview
 
