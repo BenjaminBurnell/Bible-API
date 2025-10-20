@@ -132,4 +132,4 @@ Data sourced from the public [Bible repository](https://github.com/BenjaminBurne
 Powered by **FastAPI**, **Render**, and the Word of God.
 
 > _"The grass withereth, the flower fadeth: but the word of our God shall stand for ever."_  
-> — Isaiah 40:8
+> — Isaiah 40:8 KJV
