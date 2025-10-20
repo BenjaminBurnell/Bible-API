@@ -10,10 +10,14 @@ It retrieves data directly from [BenjaminBurnell/Bible](https://github.com/Benja
 ## Live API
 
 **Base URL**  
-➡️ [https://bible-api-5jrz.onrender.com](https://bible-api-5jrz.onrender.com)
+```
+https://bible-api-5jrz.onrender.com
+```
 
 **Interactive API Docs (Swagger UI)**  
-📘 [https://bible-api-5jrz.onrender.com/docs](https://bible-api-5jrz.onrender.com/docs)
+```
+https://bible-api-5jrz.onrender.com/docs
+```
 
 ---
 
